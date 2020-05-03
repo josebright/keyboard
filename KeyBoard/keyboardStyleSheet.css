@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    margin: 2% 3% auto 3%;
+}
+.pheripheral{
+    background-color: rgb(124, 124, 60);
+    color: white;
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+    padding-top: 3.5%;
+    padding-bottom: 1%;
+}
+.keyboard{
+    margin: auto 5% 1% 5%;
+}
+.wrap{
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 2px black;
+}
+.row{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.key{
+    background-color: black;
+    margin: 3px;
+    border-radius: 5px;
+    font-size: small;
+    cursor: pointer;
+}
+.function{
+    padding-top: 3px;
+    padding-left: 5px;
+    height: 40px;
+    width: 5.5%;
+}
+.fn{
+    padding-top: 3px;
+    text-align: center;
+    height: 40px;
+    width: 5.5%;
+}
+.alpha{
+    text-align: center;
+    padding-top: 3px;
+    height: 60px;
+    width: 7%;
+}
+.back, .tab{
+    padding-left: 10px;
+    height: 60px;
+    width: 13%;
+}
+.caps, .enter{
+    padding-left: 10px;
+    height: 60px;
+    width: 14.5%;
+}
+.shift{
+    padding-left: 10px;
+    height: 60px;
+    width: 17%;
+}
+.ctrl{
+    padding-left: 10px;
+    height: 60px;
+    width: 9%;
+}
+.space{
+    height: 60px;
+    width: 50%;
+}
+.direction{
+    text-align: center;
+    padding-top: 8px;
+    height: 60px;
+    width: 10%;
+}
+.touchpad{
+    background-color: rgb(130, 130, 80);
+    opacity: 0.3;
+    border: 0.5px solid black;
+    margin-left: 26%;
+    border-radius: 5px;
+    height: 250px;
+    width: 38%;
+}
+
+
