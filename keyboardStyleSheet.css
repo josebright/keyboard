@@ -51,22 +51,22 @@ body{
     width: 7%;
 }
 .back, .tab{
-    padding-left: 10px;
+    padding-left: 0.5%;
     height: 60px;
     width: 13%;
 }
 .caps, .enter{
-    padding-left: 10px;
+    padding-left: 0.5%;
     height: 60px;
     width: 14.5%;
 }
 .shift{
-    padding-left: 10px;
+    padding-left: 0.5%;
     height: 60px;
     width: 17%;
 }
 .ctrl{
-    padding-left: 10px;
+    padding-left: 0.5%;
     height: 60px;
     width: 9%;
 }
